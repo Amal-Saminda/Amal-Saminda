@@ -97,7 +97,7 @@
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/Amal-Saminda/Amal-Saminda/snake-output/snake.svg" alt="Snake animation" />
+
 
 ###
 
